@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-	<strong>A man can be destroyed but not defeated.--《The Old Man and the Sea》></strong>
+	<strong>A man can be destroyed but not defeated.--《The Old Man and the Sea》</strong>
 </p>
