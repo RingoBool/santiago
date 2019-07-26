@@ -1,9 +1,9 @@
 <h1 align="center">
-  Santiago
+  SeaGo
 </h1>
 
 <p align="center">
-	<strong>Santiago is a lightweight MVC framework written in Go (Golang).</strong>
+	<strong>SeaGo is a lightweight MVC framework written in Go (Golang).</strong>
 </p>
 
 <p align="center">
